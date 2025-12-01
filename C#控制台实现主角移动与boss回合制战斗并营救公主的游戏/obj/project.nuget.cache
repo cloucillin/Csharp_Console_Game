@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wDWLj4kUl5Y=",
+  "success": true,
+  "projectFilePath": "D:\\桌面\\C#rumen\\C#实践小项目\\实践小项目\\入门实践小项目.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELLYF\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

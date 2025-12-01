@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>入门实践小项目</id>
+    <version>1.0.0</version>
+    <authors>入门实践小项目</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0">
+        <dependency id="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" version="1.23.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Release\net10.0\入门实践小项目.runtimeconfig.json" target="lib\net10.0\入门实践小项目.runtimeconfig.json" />
+    <file src="D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Release\net10.0\入门实践小项目.dll" target="lib\net10.0\入门实践小项目.dll" />
+  </files>
+</package>

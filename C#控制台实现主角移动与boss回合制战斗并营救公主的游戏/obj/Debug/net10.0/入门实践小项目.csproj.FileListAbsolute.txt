@@ -1,0 +1,14 @@
+D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Debug\net10.0\入门实践小项目.exe
+D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Debug\net10.0\入门实践小项目.deps.json
+D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Debug\net10.0\入门实践小项目.runtimeconfig.json
+D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Debug\net10.0\入门实践小项目.dll
+D:\桌面\C#rumen\C#实践小项目\实践小项目\bin\Debug\net10.0\入门实践小项目.pdb
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.AssemblyInfoInputs.cache
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.AssemblyInfo.cs
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.csproj.CoreCompileInputs.cache
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.dll
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\refint\入门实践小项目.dll
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.pdb
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\入门实践小项目.genruntimeconfig.cache
+D:\桌面\C#rumen\C#实践小项目\实践小项目\obj\Debug\net10.0\ref\入门实践小项目.dll

@@ -1,0 +1,5 @@
+D:\桌面\publish\入门实践小项目.exe
+D:\桌面\publish\入门实践小项目.dll
+D:\桌面\publish\入门实践小项目.deps.json
+D:\桌面\publish\入门实践小项目.runtimeconfig.json
+D:\桌面\publish\入门实践小项目.pdb
